@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Oh hello there. 👋
+I'm a video game developer who happens to code quite a bit.
 <!--
 **XpWilson/XpWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
