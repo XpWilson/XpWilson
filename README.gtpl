@@ -28,8 +28,6 @@ I publish all of my content on my website !Link Website Here!.
 
 <br />
 
-#
-
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
@@ -51,7 +49,6 @@ I publish all of my content on my website !Link Website Here!.
   - Email     : wcastillo@proton.me
   - Twitter   : <https://twitter.com/xp_overdrive>
   - Website   : coming soon
-
 
 
 ### 📊 Stats
