@@ -1,5 +1,7 @@
-### Oh hello there. 👋
-I'm a video game developer who happens to code quite a bit.
+### 🎮 Wilson Castillo 
+**'Video Game Designer (Enviromental Artist, Level Designer, Technical Artist)'**
+Oh hello there. 👋 Welcome to my Github!
+Take a look at my repos down below. I publish all of my content on my website !Link Website Here!.
 <!--
 **XpWilson/XpWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
