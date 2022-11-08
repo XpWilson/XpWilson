@@ -1,8 +1,10 @@
 # 🎮 Wilson Castillo 
 
-**'Video Game Designer (Enviromental Artist, Level Designer, Technical Artist)'**
-Oh hello there. 👋 Welcome to my Github!
-Take a look at my repos down below. I publish all of my content on my website !Link Website Here!.
+> Video Game Designer (Enviromental Artist, Level Designer, Technical Artist)
+
+Oh hello there. 👋
+Welcome to my Github!
+Take a look at my repos down below.
 
 ---
 
@@ -12,7 +14,14 @@ Take a look at my repos down below. I publish all of my content on my website !L
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="Unreal" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+
+<!--
+I publish all of my content on my website !Link Website Here!.
+
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
+-->
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -24,10 +33,20 @@ Take a look at my repos down below. I publish all of my content on my website !L
 ### ✍ Recent Posts
 
 
+<br />
 
 ### 📊 Stats
 
 ![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonXp&show_icons=true&theme=rose_pine)
+
+### 📫 How to reach me:
+  - Youtube   : <https://www.youtube.com/channel/UCoFQCFqO-94_4rQ77MAxPaw>
+  - Email     : wcastillo@proton.me
+  - Twitter   : <https://twitter.com/xp_overdrive>
+  - Website   : coming soon
+
+
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=WilsonXp&theme=gruvbox&border_radius=4.5) -->
 
