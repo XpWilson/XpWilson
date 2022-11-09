@@ -40,13 +40,6 @@ Take a look at my repos down below.
   - Twitter   : <https://twitter.com/xp_overdrive>
 
 
-### 📫 How to reach me:
-  - Youtube   : <https://www.youtube.com/channel/UCoFQCFqO-94_4rQ77MAxPaw>
-  - Email     : wcastillo@proton.me
-  - Twitter   : <https://twitter.com/xp_overdrive>
-  - Website   : coming soon
-
-
 
 
 
