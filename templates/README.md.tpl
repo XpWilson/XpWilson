@@ -32,14 +32,6 @@ I publish all of my content on my website !Link Website Here!.
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
-### 🌱 My latest projects
-{{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-{{- end }}
-### 🔨 My recent Pull Requests
-{{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
 ### ⭐ Recent Stars
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
@@ -48,20 +40,13 @@ I publish all of my content on my website !Link Website Here!.
   - Youtube   : <https://www.youtube.com/channel/UCoFQCFqO-94_4rQ77MAxPaw>
   - Email     : wcastillo@proton.me
   - Twitter   : <https://twitter.com/xp_overdrive>
-  - Website   : coming soon
 
-
-### 📊 Stats
-
-![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonXp&show_icons=true&theme=rose_pine)
 
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UCoFQCFqO-94_4rQ77MAxPaw>
   - Email     : wcastillo@proton.me
   - Twitter   : <https://twitter.com/xp_overdrive>
   - Website   : coming soon
-
-
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=WilsonXp&theme=gruvbox&border_radius=4.5) -->
@@ -89,4 +74,20 @@ Here are some ideas to get you started:
 {{ range rss "https://christitus.com/index.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
+
+### 🌱 My latest projects
+{{ range recentRepos 5 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
+### 🔨 My recent Pull Requests
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
+
+  - Website   : coming soon
+
+### 📊 Stats
+
+![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonXp&show_icons=true&theme=rose_pine)
+
 -->
