@@ -27,12 +27,6 @@ Take a look at my repos down below.
 
 - [XpWilson/StylizedFirefox](https://github.com/XpWilson/StylizedFirefox) -  Custom Firefox CSS with Catppuccin theme
 - [XpWilson/Portfolio](https://github.com/XpWilson/Portfolio) - 
-### 🌱 My latest projects
-
-- [XpWilson/StylizedFirefox](https://github.com/XpWilson/StylizedFirefox) -  Custom Firefox CSS with Catppuccin theme
-- [XpWilson/Portfolio](https://github.com/XpWilson/Portfolio) - 
-### 🔨 My recent Pull Requests
-
 ### ⭐ Recent Stars
 
 - [AngelJumbo/lavat](https://github.com/AngelJumbo/lavat) - Lava lamp simulation using metaballs in the terminal 
@@ -44,20 +38,13 @@ Take a look at my repos down below.
   - Youtube   : <https://www.youtube.com/channel/UCoFQCFqO-94_4rQ77MAxPaw>
   - Email     : wcastillo@proton.me
   - Twitter   : <https://twitter.com/xp_overdrive>
-  - Website   : coming soon
 
-
-### 📊 Stats
-
-![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonXp&show_icons=true&theme=rose_pine)
 
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UCoFQCFqO-94_4rQ77MAxPaw>
   - Email     : wcastillo@proton.me
   - Twitter   : <https://twitter.com/xp_overdrive>
   - Website   : coming soon
-
-
 
 
 
