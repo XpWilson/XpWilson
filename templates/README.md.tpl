@@ -42,13 +42,6 @@ I publish all of my content on my website !Link Website Here!.
   - Twitter   : <https://twitter.com/xp_overdrive>
 
 
-### 📫 How to reach me:
-  - Youtube   : <https://www.youtube.com/channel/UCoFQCFqO-94_4rQ77MAxPaw>
-  - Email     : wcastillo@proton.me
-  - Twitter   : <https://twitter.com/xp_overdrive>
-  - Website   : coming soon
-
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=WilsonXp&theme=gruvbox&border_radius=4.5) -->
 
 <!--
