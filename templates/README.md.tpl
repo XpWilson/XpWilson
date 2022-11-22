@@ -37,7 +37,7 @@ I publish all of my content on my website !Link Website Here!.
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 ### 📫 How to reach me:
-  - Youtube   : <https://www.youtube.com/channel/UCoFQCFqO-94_4rQ77MAxPaw>
+  - Youtube   : <https://www.youtube.com/@WilsonXp>
   - Email     : wcastillo@proton.me
   - Twitter   : <https://twitter.com/xp_overdrive>
 
