@@ -29,11 +29,11 @@ Take a look at my repos down below.
 - [XpWilson/Portfolio](https://github.com/XpWilson/Portfolio) - 
 ### ⭐ Recent Stars
 
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [marcozakaria/URP-LWRP-Shaders](https://github.com/marcozakaria/URP-LWRP-Shaders) - A Collection of Shader For URP(LWRP) Render Pipeline
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [AngelJumbo/lavat](https://github.com/AngelJumbo/lavat) - Lava lamp simulation using metaballs in the terminal 
 - [nerdypepper/scientifica](https://github.com/nerdypepper/scientifica) - tall, condensed, bitmap font for geeks
-- [MirzaBeig/GPU-Fog-Particles](https://github.com/MirzaBeig/GPU-Fog-Particles) - Textureless fog particles using a highly customizable shader to attenuate noise values. 
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UCoFQCFqO-94_4rQ77MAxPaw>
   - Email     : wcastillo@proton.me
