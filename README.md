@@ -35,7 +35,7 @@ Take a look at my repos down below.
 - [AngelJumbo/lavat](https://github.com/AngelJumbo/lavat) - Lava lamp simulation using metaballs in the terminal 
 - [nerdypepper/scientifica](https://github.com/nerdypepper/scientifica) - tall, condensed, bitmap font for geeks
 ### 📫 How to reach me:
-  - Youtube   : <https://www.youtube.com/channel/UCoFQCFqO-94_4rQ77MAxPaw>
+  - Youtube   : <https://www.youtube.com/@WilsonXp>
   - Email     : wcastillo@proton.me
   - Twitter   : <https://twitter.com/xp_overdrive>
 
