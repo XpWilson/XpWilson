@@ -32,10 +32,6 @@ I publish all of my content on my website !Link Website Here!.
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
-### ⭐ Recent Stars
-{{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/@WilsonXp>
   - Email     : wcastillo@proton.me
