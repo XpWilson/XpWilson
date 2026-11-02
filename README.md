@@ -31,7 +31,7 @@ Take a look at my repos down below.
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/@WilsonXp>
   - Email     : wcastillo@proton.me
-  - Twitter   : <https://twitter.com/xp_overdrive>
+  - Bluesky   : <https://bsky.app/profile/wilsonxp.bsky.social>
 
 
 
